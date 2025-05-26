@@ -1,11 +1,11 @@
 # IMC Prosperity 3
 April 2025
 
-Team: 
+### Team: 
 
 Cayo Alhambrarithm
 
-Results:
+### Results:
 
 88th Overall - United States
 
